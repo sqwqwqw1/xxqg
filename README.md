@@ -2,7 +2,7 @@
 
 查询学习强国答案的小程序，实际上不值一提，但是却是我第一次写出来的小玩意。
 
-其实是偷的别人服务器的内容（http://www.syiban.com）。
+其实是偷的别人服务器的内容（[http://www.syiban.com](http://www.syiban.com)）。
 
 核心程序是server里的query.py，实际上，只需要run_query(关键词)就可以得到答案了。学了两天fastapi，感觉好像可以写成个接口试试，就写了。
 
